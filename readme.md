@@ -79,8 +79,6 @@ Bei Keepass gibt es diese Funktion, die DB beim exportieren als *HTML* oder *CSV
 meterpreter> search
 
 ```
-</details>
-
 <details>
   <summary>Suchhilfe</summary>
 Bei Keepass gibt es diese Funktion, die DB beim exportieren als *HTML* oder *CSV* abzulegen.
@@ -91,3 +89,6 @@ meterpreter> search -f *keepass*/*.html -r
 - -r Rekursiv (alle Verzeichnisse)
 - -f Datei mit Namensmuster (inkl. Pfad)
 </details>
+</details>
+
+
