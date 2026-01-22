@@ -68,7 +68,7 @@ Gängige Passwortmanager bieten eine Druckfunktion.
 Dafür erzeugen manche Programme eine HTML-Datei, die **nicht automatisch gelöscht** wird.
 
 Suche nach Programmen, die du kennst.
-Häufig werden solche Dateien standardmäßig im Dokumentenverzeichnis abgelegt,
+Häufig werden solche Dateien standardmäßig im **Dokumentenverzeichnis** abgelegt,
 falls der Nutzer kein anderes Verzeichnis angibt.
 
 <details>
@@ -90,5 +90,3 @@ meterpreter> search -f *keepass*/*.html -r
 - -f Datei mit Namensmuster (inkl. Pfad)
 </details>
 </details>
-
-
