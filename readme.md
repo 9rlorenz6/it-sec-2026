@@ -2,7 +2,7 @@
 ## Schritt 1: Aufklärung
 Wie gewohnt, *wollen* wir herausfinden, ob und was sich auf unserem Ziel so befindet.  
 Die IP-Adresse des Systems ist:  
-$$127.0.0.1$$
+$$172.29.41.210$$
 
 <details>
   <summary>Hinweis</summary>
